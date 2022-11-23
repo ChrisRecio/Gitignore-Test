@@ -1,0 +1,1 @@
+Test putting .gitignore in a .gitignore
